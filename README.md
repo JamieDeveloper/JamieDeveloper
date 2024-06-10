@@ -11,7 +11,7 @@
 ---
 
 Be sure to check out my website: [jamiedeveloper.github.io](https://jamiedeveloper.github.io/)
-since [GitHub](https://github.com/jamiedeveloper) does not have my details.
+since [GitHub](https://github.com/jamiedeveloper) does not have my portfolio and details.
 
 
 
