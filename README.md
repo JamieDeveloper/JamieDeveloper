@@ -1,12 +1,12 @@
 # Jamie Nagy
 
-## Full Stack Web Developer
-### Create top-quality web apps for all use cases
+## Full Stack Web Developer &nbsp; | &nbsp; Create top-quality web apps for all use cases
+
 
 ---
 
-## Data Scientist & ML Engineer
-### Help businesses make data-driven decisions
+## Data Scientist & ML Engineer &nbsp; | &nbsp; Help businesses make data-driven decisions
+
 
 ---
 ## Completely Independent Projects:
