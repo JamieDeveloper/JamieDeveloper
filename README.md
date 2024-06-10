@@ -9,9 +9,13 @@
 ### Help businesses make data-driven decisions
 
 ---
+## Completely Independent Projects:
 
-Be sure to check out my website: [jamiedeveloper.github.io](https://jamiedeveloper.github.io/)
-since [GitHub](https://github.com/jamiedeveloper) does not have my portfolio and details.
+- EchoReads: https://echoreads.vercel.app
+- AstroInsight: https://astro-insight.vercel.app
+- LumiShop: https://lumishop.onrender.com
+
+### Be sure to check out my website: [jamiedeveloper.github.io](https://jamiedeveloper.github.io/)
 
 
 
