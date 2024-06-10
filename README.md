@@ -1,4 +1,20 @@
-## Hi there 👋
+# Jamie Nagy
+
+## Full Stack Web Developer
+### Create top-quality web apps for all use cases
+
+---
+
+## Data Scientist & ML Engineer
+### Help businesses make data-driven decisions
+
+---
+
+Be sure to check out my website: [jamiedeveloper.github.io](https://jamiedeveloper.github.io/)
+since [GitHub](https://github.com/jamiedeveloper) does not have my details.
+
+
+
 
 <!--
 **JamieDeveloper/JamieDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
